@@ -14,7 +14,6 @@
 		"name": "Wolf frigate",
 		"unitType": "Ranged Water",
 		"uniqueTo": "Skandie",
-		"replaces": "Trireme",
 		"movement": 20,
 		"strength": 120,
 		"rangedStrength": 120,
@@ -27,7 +26,6 @@
 		"name": "Royal Ranger",
 		"unitType": "Ranged",
 		"uniqueTo": "Araluen Kingdom",
-		"replaces": "Longbowman",
 		"movement": 8,
 		"strength": 100,
 		"rangedStrength": 100,
@@ -35,7 +33,6 @@
 		"cost": 100,
 		"requiredTech": "Archery",
 		"promotions": ["Logistics","Accuracy I"],
-		"upgradesTo": "Composite Bowman",
 		"attackSound": "phasers"
 	},
 	{
