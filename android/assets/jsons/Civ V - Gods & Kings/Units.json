@@ -22,7 +22,7 @@
 		"cost": 50,
 		"requiredTech": "Sailing",
 		"attackSound": "nonmetalhit"
-	}.
+	},
 	{
 		"name": "Royal Ranger",
 		"unitType": "Ranged",
