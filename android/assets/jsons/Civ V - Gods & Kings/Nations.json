@@ -1446,6 +1446,75 @@
         "innerColor": [185,12,12],
 		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
 			"[Water] units gain the [Unable to pillage tiles] promotion"]
+	},
+    {
+		"name": "Araluen Kingdom",
+		"leaderName": "King Duncan",
+		"adjective": [""],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is the land of Araluen!",
+		
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Aralunic fiefdom","Redmont fiefdom","Gorlan fiefdom","Seacliffin flame","Norgate fiefdom","Flameno Amarle",
+			"Aspirenne","Bannockske fiefdom","Belconnian fiefdom","Caraway fief","Flameth Coledale","Cordomian fief",
+			"Culway fiefdom","Dacton fief","Eagleton fief ","Gladtonian fiefdom","Gortian fief","Greenleaf's fief",
+			"Hogarth fiefdom","Holder's fief","Holsworthian fief","Ceramonian fief","Martinsydes's fief "]
+	},
+    {
+		"name": "Skandie",
+		"leaderName": "Oberjal Ragnar",
+		"adjective": [""],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is the land of Skandie!",
+		
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Hallasholm","Skorghijl","Fallkork","Predatory Strait","Sand bay"]
 	}
 
 ]
