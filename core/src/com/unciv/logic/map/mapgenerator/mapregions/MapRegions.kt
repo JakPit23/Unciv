@@ -765,12 +765,6 @@ class MapRegions (val ruleset: Ruleset) {
             totalPlaced += MapRegionResources.placeMajorDeposits(tileData, ruleset, list, terrain, fallbackStrategic, 2, 2)
         }
 
-        // Second add some small deposits of modern strategic resources to city states
-        val lastEra = ruleset.eras.values.maxOf { it.eraNumber }
-        val modernOptions = strategicResources.filter {
-            it.revealedBy != null &&
-                    ruleset.eras[ruleset.technologies[it.revealedBy]!!.era()]!!.eraNumber >= lastEra / 2
-        }
 
         if (modernOptions.any())
             for (cityStateLocation in tileMap.startingLocationsByNation
