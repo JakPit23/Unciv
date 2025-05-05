@@ -22,7 +22,18 @@
 		"requiredTech": "Sailing",
 		"attackSound": "nonmetalhit"
 	},
-	{
+		{
+		"name": "Old Bob",
+		"unitType": "civilian",
+		"uniqueTo": "Araluen Kingdom",
+		"movement": 3,
+		"strength": 5,
+		"rangedStrength": 5,
+		"range": 5,
+		"cost": 70,
+		"requiredTech": "Rangre's start",
+	},
+    {
 		"name": "Royal Ranger",
 		"unitType": "Ranged",
 		"uniqueTo": "Araluen Kingdom",
