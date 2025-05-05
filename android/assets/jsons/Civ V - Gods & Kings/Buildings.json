@@ -22,6 +22,15 @@
 		"uniques": ["Hello"],
 		"requiredTech": "Archery"
 		},
+        	{
+		"name": "Old Bob's stables",
+		"uniqueTo": "Araluen Kingdom",
+		"cost": 0,
+		"hurryCostModifier": 150,
+		"happiness": 100,
+		"uniques": ["Hello"],
+		"requiredTech": "Rangre's start"
+		},
     	{
 		"name": "Big seaport",
 		"uniqueTo": "Skandie",
