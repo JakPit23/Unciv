@@ -27,6 +27,12 @@
 				"prerequisites": ["Agriculture"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
+            {
+				"name": "Rangre's start",
+				"row": 2,
+				"prerequisites": ["Agriculture"],
+				"quote": "'hello' - Bible Isaiah 45:9"
+			},
 			{
 				"name": "Animal Husbandry",
 				"row": 5,
